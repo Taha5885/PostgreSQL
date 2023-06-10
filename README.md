@@ -1,6 +1,6 @@
 # PostgreSQL
-SQL Nedir?
-Bu bölümde SQL tanımıyla beraber veri, veritabanı ve veritabanı yönetim sistemi kavramlarından bahsettik. Veritabanı yönetim sistemi olarak son dönemlerin en popüler yazılımı olan POSTGRESQL kullandık ve POSTGRESQL'i bilgisayarımıza yükledik.
+## SQL Nedir?
+Yapılandırılmış sorgu dili (SQL), bilgileri ilişkisel bir veri tabanında depolamak ve işlemek için kullanılan bir programlama dilidir. İlişkisel bir veri tabanı, farklı veri niteliklerini ve veri değerleri arasındaki çeşitli ilişkileri temsil eden satırlar ve sütunlar ile bilgileri tablo biçiminde depolar. Veri tabanından bilgi depolamak, güncellemek, kaldırmak, aramak ve almak için SQL ifadelerini kullanabilirsiniz. Veri tabanı performansını korumak ve optimize etmek için SQL'i de kullanabilirsiniz.
 
 ### SQL Temelleri I
 Bu bölümde üzerine konuşulan anahtar kelimeler: SELECT - COUNT - WHERE - BETWEEN - IN - LIKE - ILIKE - DISTINCT. Karşılaştırma ve Mantıksal operatörlerden konuştuk. Aynı zamanda PSQL terminal ara yüzüne değindik.
